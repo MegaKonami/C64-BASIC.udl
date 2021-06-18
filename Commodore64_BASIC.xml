@@ -14,7 +14,7 @@
             <Keywords name="Numbers, suffix2"></Keywords>
             <Keywords name="Numbers, range"></Keywords>
             <Keywords name="Operators1">+ - * / ^</Keywords>
-            <Keywords name="Operators2">= &lt; &gt; &quot;&lt;=&quot; &quot;&gt;=&quot; &quot;&lt;&gt;&quot; % $ and or not </Keywords>
+            <Keywords name="Operators2">= &lt; &gt; &quot;&lt;=&quot; &quot;&gt;=&quot; &quot;&lt;&gt;&quot; % $ and or not</Keywords>
             <Keywords name="Folders in code1, open"></Keywords>
             <Keywords name="Folders in code1, middle"></Keywords>
             <Keywords name="Folders in code1, close"></Keywords>
@@ -24,7 +24,7 @@
             <Keywords name="Folders in comment, open"></Keywords>
             <Keywords name="Folders in comment, middle"></Keywords>
             <Keywords name="Folders in comment, close"></Keywords>
-            <Keywords name="Keywords1">data&#x000D;&#x000A;print&#x000D;&#x000A;&quot;print#&quot;&#x000D;&#x000A;let&#x000D;&#x000A;cont&#x000D;&#x000A;stop&#x000D;&#x000A;list&#x000D;&#x000A;load&#x000D;&#x000A;as&#x000D;&#x000A;new&#x000D;&#x000A;run&#x000D;&#x000A;save&#x000D;&#x000A;return&#x000D;&#x000A;goto&#x000D;&#x000A;verify&#x000D;&#x000A;close&#x000D;&#x000A;clr&#x000D;&#x000A;cmd&#x000D;&#x000A;open&#x000D;&#x000A;&quot;def fn&quot;&#x000D;&#x000A;dim&#x000D;&#x000A;end&#x000D;&#x000A;get&#x000D;&#x000A;&quot;get#&quot;&#x000D;&#x000A;&quot;go to&quot;&#x000D;&#x000A;input&#x000D;&#x000A;&quot;input#&quot;&#x000D;&#x000A;sys&#x000D;&#x000A;wait</Keywords>
+            <Keywords name="Keywords1">data&#x000D;&#x000A;print&#x000D;&#x000A;&quot;print#&quot;&#x000D;&#x000A;let&#x000D;&#x000A;cont&#x000D;&#x000A;stop&#x000D;&#x000A;list&#x000D;&#x000A;load&#x000D;&#x000A;as&#x000D;&#x000A;new&#x000D;&#x000A;run&#x000D;&#x000A;save&#x000D;&#x000A;return&#x000D;&#x000A;goto&#x000D;&#x000A;verify&#x000D;&#x000A;close&#x000D;&#x000A;clr&#x000D;&#x000A;cmd&#x000D;&#x000A;open&#x000D;&#x000A;def&#x000D;&#x000A;dim&#x000D;&#x000A;end&#x000D;&#x000A;get&#x000D;&#x000A;&quot;get#&quot;&#x000D;&#x000A;&quot;go to&quot;&#x000D;&#x000A;input&#x000D;&#x000A;&quot;input#&quot;&#x000D;&#x000A;sys&#x000D;&#x000A;wait</Keywords>
             <Keywords name="Keywords2">&quot;remark text&quot;&#x000D;&#x000A;if&#x000D;&#x000A;then&#x000D;&#x000A;for&#x000D;&#x000A;to&#x000D;&#x000A;step&#x000D;&#x000A;next&#x000D;&#x000A;on&#x000D;&#x000A;poke&#x000D;&#x000A;rem&#x000D;&#x000A;read&#x000D;&#x000A;restore</Keywords>
             <Keywords name="Keywords3">abs&#x000D;&#x000A;atn&#x000D;&#x000A;cos&#x000D;&#x000A;esp&#x000D;&#x000A;fnxx&#x000D;&#x000A;int&#x000D;&#x000A;peek&#x000D;&#x000A;rnd&#x000D;&#x000A;sgn&#x000D;&#x000A;sin&#x000D;&#x000A;sqr&#x000D;&#x000A;tan&#x000D;&#x000A;usr</Keywords>
             <Keywords name="Keywords4">asc&#x000D;&#x000A;chr$&#x000D;&#x000A;left$&#x000D;&#x000A;len&#x000D;&#x000A;mid$&#x000D;&#x000A;right$&#x000D;&#x000A;str$&#x000D;&#x000A;val&#x000D;&#x000A;fre&#x000D;&#x000A;pos&#x000D;&#x000A;spc&#x000D;&#x000A;tab</Keywords>
